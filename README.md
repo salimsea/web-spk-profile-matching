@@ -27,7 +27,7 @@ Aplikasi ini adalah sistem pendukung keputusan (SPK) yang menggunakan metode Pro
 
 2. Masuk ke direktori project:
     ```bash
-    cd repo
+    cd web-spk-profile-matching
     ```
 
 3. Buat database di MySQL dan impor file `database.sql` yang ada di folder `sql`:
@@ -49,8 +49,6 @@ Aplikasi ini adalah sistem pendukung keputusan (SPK) yang menggunakan metode Pro
     if (! $koneksi) {
         die("Koneksi database gagal: " . mysqli_connect_error());
     } 
-
-   
     ?>
 
     ```
