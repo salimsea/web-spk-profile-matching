@@ -1,5 +1,7 @@
 # Aplikasi SPK Metode Profile Matching
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=salimsea.web-spk-profile-matching)
+
 ## Demo Website
 <img width="500" alt="image" src="https://github.com/salimsea/web-spk-profile-matching/assets/49223890/132f77bc-f14c-43fc-bd5a-e588b342a52c">
 
